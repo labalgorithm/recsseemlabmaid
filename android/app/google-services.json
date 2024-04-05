@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299472701171",
+    "project_id": "labmaid-8cb7d",
+    "storage_bucket": "labmaid-8cb7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299472701171:android:28f6213fa28263be46d986",
+        "android_client_info": {
+          "package_name": "com.example.recsseemlabmaid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc8H0RtcbwllVxbgqvxVEubBPtne3utJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
